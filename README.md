@@ -71,8 +71,8 @@ This project provides a comprehensive solution for handling missing data by pred
 
 ## Contributors
 
-- [Julien Esposito]
+- Julien Esposito
 
 ## License
 
-This project is licensed under the [MIT] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
